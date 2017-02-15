@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Gabrielle Franzini"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Gabrielle Franzini"
+description              : "Personal Website"
+url                      : "https://ghfranzini.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ghfranzini/ghfranzini.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Gabrielle Franzini"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a BS/MS grad student at WPI studying Robotics Engineering. I am interested in pursuing the field of underwater robotics for the purposes of exploration. Some of my projects have dabbled in biomimicry, especially applied to creating more efficient and effective underwater vehicles."
+  location         : "Worcester, MA"
+  email            : "ghfranzini@wpi.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -240,7 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
